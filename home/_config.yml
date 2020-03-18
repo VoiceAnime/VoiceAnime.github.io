@@ -22,7 +22,7 @@ title: VoiTech HomePage
 email: voitech.anime@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   東京工業大学非公認サークルボイテックです
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://VoiceAnime.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: voitech_anime
 github_username:  VoiceAnime
