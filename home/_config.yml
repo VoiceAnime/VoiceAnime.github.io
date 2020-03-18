@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   東京工業大学非公認サークルボイテックです
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 東工大アニメ声優研究会(ボイテック)
+twitter_username: voitech_anime
 github_username:  VoiceAnime
 
 # Build settings
