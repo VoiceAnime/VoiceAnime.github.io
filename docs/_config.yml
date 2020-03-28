@@ -24,15 +24,15 @@ url: "https://VoiceAnime.github.io" # the base hostname & protocol for your site
 twitter_username: voitech_anime
 github_username:  VoiceAnime
 
-author:
-  name: 'Voitech'
-  bio: 'プロフィール'
+# author:
+#   name: 'Voitech'
+#   bio: 'プロフィール'
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
-#theme: minima
+# theme: minimal-mistakes-jekyll
+# remote_theme: mmistakes/minimal-mistakes
+theme: minima
 # theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
