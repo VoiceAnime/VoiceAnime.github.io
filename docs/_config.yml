@@ -21,8 +21,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   voitech home page
 baseurl: "/Voitech" # the subpath of your site, e.g. /blog
 url: "https://VoiceAnime.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: voitech_anime
-github_username:  VoiceAnime
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: voitech_anime
+    github:  Voice_Anime
+
+# twitter_username: voitech_anime
+# github_username:  VoiceAnime
 
 # author:
 #   name: 'Voitech'
@@ -38,6 +46,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
